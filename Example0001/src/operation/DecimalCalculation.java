@@ -1,7 +1,5 @@
 package operation;
 
-import java.awt.TextField;
-
 public class DecimalCalculation extends CoreOperation{
 
 	@Override
